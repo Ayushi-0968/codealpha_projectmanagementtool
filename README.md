@@ -116,6 +116,6 @@ project-management-tool/
 
 ## 👨‍💻 Author
 
-**Rameen Saleem Khan**
-- GitHub: [@Rameen-Saleem](https://github.com/Rameen-Saleem)
+**Ayushi-Singh**
+- GitHub: [@Ayushi-Singh](https://github.com//Ayushi-singh)
 
