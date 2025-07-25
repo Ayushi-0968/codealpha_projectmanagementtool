@@ -116,6 +116,6 @@ project-management-tool/
 
 ## 👨‍💻 Author
 
-**Ayushi-Singh**
-- GitHub: [@Ayushi-Singh](https://github.com//Ayushi-singh)
+**Ayushi-0968**
+- GitHub: [@Ayushi-0968](https://github.com//Ayushi-0968)
 
